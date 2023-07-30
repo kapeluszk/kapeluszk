@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kapeluszk
 - 🌱 I’m currently procrastinating
+- 📧 You can reach me at kacper.grzelak@protonmail.com
 
 
 <!---
