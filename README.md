@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kapeluszk
-- 🌱 I’m currently procrastinating
+- 🌱 3rd year Computer Science student
 - 📧 You can reach me at kacper.grzelak@protonmail.com
 
 
