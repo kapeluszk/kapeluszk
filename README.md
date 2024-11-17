@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kapeluszk
-- 🌱 3rd year Computer Science student
+- 🌱 4th year Computer Science student
 - 📧 You can reach me at kacper.grzelak@protonmail.com
 
 
